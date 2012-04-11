@@ -5,6 +5,10 @@ tagline: "#!"
 ---
 {% include JB/setup %}
 
-## Sample Posts
+## Giới thiệu
 
-Trang web đang trong quá trình xây dựng.
+FIXME
+
+## Các buổi sinh hoạt
+
+* [Ngày 10 tháng 04 năm 2012](/Activities/2012/04/12/2012-04-10_minutes/)
