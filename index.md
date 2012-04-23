@@ -9,12 +9,12 @@ tagline: "#!"
 
 **Không gian Cộng đồng Hà Nội** (tiếng Anh "Hanoi Community Space") là một
 hình thức *sinh hoạt cộng đồng*, được thành lập và tổ chức bởi một nhóm các
-bạn hoạt động trong ngành Công nghệ Thông tin và ủng hộ **Phần mềm Tự do Nguồn
-mở**
+bạn hoạt động trong ngành Công nghệ Thông tin (CNTT), yêu thích và ủng hộ
+**Phần mềm Tự do Nguồn mở**
 ([Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open_source_software)
 hay FOSS) ở Hà Nội, với mục tiêu *đẩy mạnh văn hóa và tư duy FOSS* trong *Hệ
-sinh thái Công nghệ Thông tin*, đem lại *giá trị thực sự* cho người làm phần
-mềm và sử dụng phần mềm nói chung và sản phẩm Công nghệ nói riêng.
+sinh thái CNTT*, đem lại *giá trị thực* cho người làm phần mềm và sử dụng phần
+mềm nói riêng và sản phẩm CNTT nói chung.
 
 *Không gian Cộng đồng Hà Nội* được tổ chức sinh hoạt:
 
