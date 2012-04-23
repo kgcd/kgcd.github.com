@@ -21,7 +21,7 @@ mềm nói riêng và sản phẩm CNTT nói chung.
 * tại phòng **Community Space, tầng 3, số 20A, ngõ 98 Thái Hà**, thuộc văn phòng
   [công ty iWay](http://iwayvietnam.com/) (bản đồ FIXME);
 
-* từ **14:00 đến 17:00, chiều thứ Ba và thứ Sáu hàng tuầ*n*.
+* từ **14:00 đến 17:00, chiều thứ Ba và thứ Sáu hàng tuần**.
 
 Mời tất cả các bạn quan tâm đến tham dự buổi sinh hoạt cùng chúng tôi.
 
