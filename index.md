@@ -26,7 +26,8 @@ mềm và sử dụng phần mềm nói chung và sản phẩm Công nghệ nói
 Mời tất cả các bạn quan tâm đến tham dự buổi sinh hoạt cùng chúng tôi.
 
 Xin trân trọng cảm ơn anh **Trương Anh Tuấn** (tuanta \[at\] iwayvietnam
-\[dot\] com) - Tổng Giám đốc Công ty Cổ phần Giải pháp Thông tin iWay - vì ý
+\[dot\] com) - Tổng Giám đốc
+[Công ty Cổ phần Giải pháp Thông tin iWay](http://iwayvietnam.com/) - vì ý
 tưởng và sự hỗ trợ tuyệt vời.
 
 ## Tài nguyên
