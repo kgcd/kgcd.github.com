@@ -60,7 +60,7 @@ tháng 04 năm 2012**.
 
 Để biết thêm chi tiết về **Không gian Cộng đồng**, mời bạn liên hệ với chúng
 tôi qua trang Web, mail group (phía trên), địa chỉ trực tiếp, hoặc mail tới
-bạn *Nguyên Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
+bạn *Nguyễn Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 
 ## TODO
 
