@@ -18,10 +18,10 @@ mềm và sử dụng phần mềm nói chung và sản phẩm Công nghệ nói
 
 *Không gian Cộng đồng Hà Nội* được tổ chức sinh hoạt:
 
-* tại phòng *Community Space*, tầng 3, số 20A, ngõ 98 Thái Hà, thuộc văn phòng
+* tại phòng **Community Space, tầng 3, số 20A, ngõ 98 Thái Hà**, thuộc văn phòng
   [công ty iWay](http://iwayvietnam.com/) (bản đồ FIXME);
 
-* từ *14:00 đến 17:00, chiều thứ Ba và thứ Sáu hàng tuần*.
+* từ **14:00 đến 17:00, chiều thứ Ba và thứ Sáu hàng tuầ*n*.
 
 Mời tất cả các bạn quan tâm đến tham dự buổi sinh hoạt cùng chúng tôi.
 
@@ -43,7 +43,7 @@ tưởng và sự hỗ trợ tuyệt vời.
 
 ## Lịch sinh hoạt
 
-Buổi sinh hoạt tiếp theo sẽ được tổ chức vào **14:00 - 15:30 - thứ Ba, ngày 24
+Buổi sinh hoạt tiếp theo sẽ được tổ chức vào **14:00 ÷ 17:00, thứ Ba, ngày 24
 tháng 04 năm 2012**.
 
 <iframe src="http://bit.ly/JkyN0K"
