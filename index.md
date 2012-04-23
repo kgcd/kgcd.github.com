@@ -72,3 +72,34 @@ bạn *Nguyên Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 * [Ngày 17 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-17_minutes/)
 * [Ngày 13 tháng 04 năm 2012](/Activities/2012/04/15/2012-04-13_minutes/)
 * [Ngày 10 tháng 04 năm 2012](/Activities/2012/04/12/2012-04-10_minutes/)
+
+## License
+
+Tất cả tài nguyên trên trang web được phân phối dưới tất cả các điều khoản quy
+định bởi giấy phép
+[CC-NC-SA 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode).
+
+---
+
+<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+<img alt="Creative Commons License"
+     style="border-width:0"
+     src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a></center>
+
+<center>
+<div>
+    <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hanoi
+Community Space Website</span> by
+<a xmlns:cc="http://creativecommons.org/ns#"
+    href="http://community-space.github.com/"
+    property="cc:attributionName"
+    rel="cc:attributionURL">Hanoi Community Space</a>
+</div>
+<div>
+is licensed under a
+</div>
+<div>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+</div>
+</center>
