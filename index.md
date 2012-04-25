@@ -5,9 +5,11 @@ tagline: "#!"
 ---
 {% include JB/setup %}
 
+## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 27 tháng 04 năm 2012.
+
 ## Giới thiệu
 
-**Không gian Cộng đồng Hà Nội** (tiếng Anh "Hanoi Community Space") là một
+**Không gian Cộng đồng Hà Nội** (tiếng Anh: "Hanoi Community Space") là một
 hình thức *sinh hoạt cộng đồng*, được thành lập và tổ chức bởi một nhóm các
 bạn hoạt động trong ngành Công nghệ Thông tin (CNTT), yêu thích và ủng hộ
 **Phần mềm Tự do Nguồn mở**
@@ -32,19 +34,15 @@ tưởng và sự hỗ trợ tuyệt vời.
 
 ## Tài nguyên
 
-* Trang chủ (sẽ thay đổi thành tên miền thân thiện hơn):
-  [http://community-space.github.com](http://community-space.github.com)
+* Trang chủ: [http://khonggiancongdong.org](http://khonggiancongdong.org)
 
 * Mail group:
   [http://groups.google.com/group/khonggian-congdong](http://groups.google.com/group/khonggian-congdong)
 
 * Wiki (sẽ thay đổi thành địa chỉ thân thiện hơn):
-  [http://community-space.wikia.com/wiki/Community_Space_Wiki](http://community-space.wikia.com/wiki/Community_Space_Wiki)
+  [http://wiki.khonggiancongdong.org](http://wiki.khonggiancongdong.org)
 
 ## Lịch sinh hoạt
-
-Buổi sinh hoạt tiếp theo sẽ được tổ chức vào **14:00 ÷ 17:00, thứ Ba, ngày 24
-tháng 04 năm 2012**.
 
 <iframe src="http://bit.ly/JkyN0K"
     style=" border-width:0"
@@ -68,6 +66,7 @@ bạn *Nguyễn Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 
 ## Các buổi sinh hoạt
 
+* [Ngày 24 tháng 04 năm 2012](/Activities/2012/04/25/memo-24042012/)
 * [Ngày 20 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-20_minutes/)
 * [Ngày 17 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-17_minutes/)
 * [Ngày 13 tháng 04 năm 2012](/Activities/2012/04/15/2012-04-13_minutes/)
