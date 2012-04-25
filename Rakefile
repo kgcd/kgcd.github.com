@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require "rubygems"
 require 'rake'
 require 'yaml'
@@ -59,14 +61,33 @@ task :post do
 
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
-    post.puts "---"
-    post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts 'description: ""'
-    post.puts "category: "
-    post.puts "tags: []"
-    post.puts "---"
-    post.puts "{% include JB/setup %}"
+    # post.puts "---"
+    # post.puts "layout: post"
+    # post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    # post.puts 'description: ""'
+    # post.puts "category: Activities"
+    # post.puts 'tagline: ":(){ :|:& };:"'
+    # post.puts "tags: [community_space]"
+    # post.puts "---"
+    # post.puts "{% include JB/setup %}"
+    post.puts <<EOS
+---
+layout: post
+title: "#{title.gsub(/-/,' ')}"
+description: ""
+category: Activities
+tags: [community_space]
+---
+{% include JB/setup %}
+
+## Thời gian
+
+Từ 14:00 đến 17:00, thứ _ ngày _ tháng _ năm 2012.
+
+## Thành viên tham dự
+
+## Chủ đề được thảo luận
+EOS
   end
 end # task :post
 
@@ -292,7 +313,8 @@ end
 
 def ask(message, valid_options)
   if valid_options
-    answer = get_stdin("#{message} #{valid_options.to_s.gsub(/"/, '').gsub(/, /,'/')} ") while !valid_options.include?(answer)
+    valid_options = valid_options.to_s.gsub(/\"/, '').gsub(/, /,'/')
+    answer = get_stdin("#{message} #{valid_options} ") while !valid_options.include?(answer)
   else
     answer = get_stdin(message)
   end
