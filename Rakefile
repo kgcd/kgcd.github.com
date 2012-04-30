@@ -7,7 +7,7 @@ require 'time'
 
 SOURCE = "."
 CONFIG = {
-  'version' => "0.2.13",
+  'version' => "0.2.13.1-cmpitg",
   'themes' => File.join(SOURCE, "_includes", "themes"),
   'layouts' => File.join(SOURCE, "_layouts"),
   'posts' => File.join(SOURCE, "_posts"),
@@ -61,15 +61,6 @@ task :post do
 
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
-    # post.puts "---"
-    # post.puts "layout: post"
-    # post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    # post.puts 'description: ""'
-    # post.puts "category: Activities"
-    # post.puts 'tagline: ":(){ :|:& };:"'
-    # post.puts "tags: [community_space]"
-    # post.puts "---"
-    # post.puts "{% include JB/setup %}"
     post.puts <<EOS
 ---
 layout: post
@@ -326,5 +317,5 @@ def get_stdin(message)
   STDIN.gets.chomp
 end
 
-#Load custom rake scripts
+# Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }

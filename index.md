@@ -5,7 +5,9 @@ tagline: "#!"
 ---
 {% include JB/setup %}
 
-## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 27 tháng 04 năm 2012.
+## Không gian Cộng đồng nghỉ sinh hoạt ngày Quốc tế Lao động 01/05/2012.
+
+## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 04 tháng 05 năm 2012.
 
 ## Giới thiệu
 
@@ -66,6 +68,7 @@ bạn *Nguyễn Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 
 ## Các buổi sinh hoạt
 
+* [Ngày 27 tháng 04 năm 2012](/Activities/2012/04/30/memo-27-04-2012/)
 * [Ngày 24 tháng 04 năm 2012](/Activities/2012/04/25/memo-24042012/)
 * [Ngày 20 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-20_minutes/)
 * [Ngày 17 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-17_minutes/)
