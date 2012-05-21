@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
+    {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
+    <meta name="author" content="{{ site.author.name }}" />
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -12,9 +12,29 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css"
+          rel="stylesheet" />
+    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet"
+          type="text/css" media="all" />
 
+    <script type="text/javascript">
+
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-31909884-1']);
+     _gaq.push(['_setDomainName', 'khonggiancongdong.org']);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+     var ga = document.createElement('script');
+     ga.type = 'text/javascript';
+     ga.async = true;
+     ga.src = ('https:' == document.location.protocol ?
+              'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -47,8 +67,11 @@
 
       <footer>
         <p>&copy; {{ site.author.name }} 2012 
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+          with help from <a href="http://jekyllbootstrap.com"
+                            target="_blank"
+                            title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/"
+                 target="_blank">Twitter Bootstrap</a>
         </p>
       </footer>
 
