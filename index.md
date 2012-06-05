@@ -66,6 +66,7 @@ bạn *Nguyễn Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 
 ## Các buổi sinh hoạt
 
+* [Ngày 01 tháng 06 năm 2012](/Activities/2012/06/01/memo-01062012/)
 * [Ngày 18 tháng 05 năm 2012](/Activities/2012/05/21/memo-18052012/)
 * [Ngày 15 tháng 05 năm 2012](/Activities/2012/05/21/memo-15052012/)
 * [Ngày 11 tháng 05 năm 2012](/Activities/2012/05/14/memo-11052012/)
