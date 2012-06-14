@@ -5,7 +5,7 @@ tagline: "#!"
 ---
 {% include JB/setup %}
 
-## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Ba, ngày 12 tháng 06 năm 2012.
+## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 15 tháng 06 năm 2012.
 
 ## Giới thiệu
 
@@ -40,7 +40,8 @@ tưởng và sự hỗ trợ tuyệt vời.
   [http://groups.google.com/group/khonggian-congdong](http://groups.google.com/group/khonggian-congdong)
 
 * Wiki (sẽ thay đổi thành địa chỉ thân thiện hơn):
-  [http://wiki.khonggiancongdong.org](http://wiki.khonggiancongdong.org)
+  [http://community-space.wikia.com/wiki/Community_Space_Wiki](http://community-space.wikia.com/wiki/Community_Space_Wiki)
+<!--  [http://wiki.khonggiancongdong.org](http://wiki.khonggiancongdong.org) -->
 
 ## Lịch sinh hoạt
 
