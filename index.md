@@ -5,7 +5,7 @@ tagline: "#!"
 ---
 {% include JB/setup %}
 
-## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 15 tháng 06 năm 2012.
+## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Ba, ngày 07 tháng 08 năm 2012.
 
 ## Giới thiệu
 
@@ -65,7 +65,7 @@ bạn *Nguyễn Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 
 * Favicon và logo `/favicon.ico`.
 
-## Các buổi sinh hoạt
+## Lưu trữ một số buổi sinh hoạt trước
 
 * [Ngày 01 tháng 06 năm 2012](/Activities/2012/06/01/memo-01062012/)
 * [Ngày 18 tháng 05 năm 2012](/Activities/2012/05/21/memo-18052012/)
