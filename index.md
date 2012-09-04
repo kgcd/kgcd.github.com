@@ -5,7 +5,7 @@ tagline: "#!"
 ---
 {% include JB/setup %}
 
-## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 10 tháng 08 năm 2012.
+<!-- ## Buổi sinh hoạt tiếp theo sẽ được tổ chức vào 14:00 ÷ 17:00, thứ Sáu, ngày 10 tháng 08 năm 2012. -->
 
 ## Giới thiệu
 
