@@ -23,7 +23,8 @@ mềm nói riêng và sản phẩm CNTT nói chung.
 * tại phòng **Community Space, tầng 3, số 20A, ngõ 98 Thái Hà**, thuộc văn phòng
   [công ty iWay](http://iwayvietnam.com/) (bản đồ FIXME);
 
-* từ **14:00 đến 17:00, chiều thứ Ba và thứ Sáu hàng tuần**.
+* từ **14:30 đến 17:30, chiều thứ Ba hàng tuần**, và **từ 09:00 đến
+  14:00 thứ Bảy hàng tuần**
 
 Mời tất cả các bạn quan tâm đến tham dự buổi sinh hoạt cùng chúng tôi.
 
@@ -65,20 +66,20 @@ bạn *Nguyễn Hà Dương* (cmpitg \[at\] gmail \[dot\] com).
 
 * Favicon và logo `/favicon.ico`.
 
-## Lưu trữ một số buổi sinh hoạt trước
+<!-- ## Lưu trữ một số buổi sinh hoạt trước -->
 
-* [Ngày 01 tháng 06 năm 2012](/Activities/2012/06/01/memo-01062012/)
-* [Ngày 18 tháng 05 năm 2012](/Activities/2012/05/21/memo-18052012/)
-* [Ngày 15 tháng 05 năm 2012](/Activities/2012/05/21/memo-15052012/)
-* [Ngày 11 tháng 05 năm 2012](/Activities/2012/05/14/memo-11052012/)
-* [Ngày 08 tháng 05 năm 2012](/Activities/2012/05/09/memo-08052012/)
-* [Ngày 04 tháng 05 năm 2012](/Activities/2012/05/06/memo-04-05-2012/)
-* [Ngày 27 tháng 04 năm 2012](/Activities/2012/04/30/memo-27-04-2012/)
-* [Ngày 24 tháng 04 năm 2012](/Activities/2012/04/25/memo-24042012/)
-* [Ngày 20 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-20_minutes/)
-* [Ngày 17 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-17_minutes/)
-* [Ngày 13 tháng 04 năm 2012](/Activities/2012/04/15/2012-04-13_minutes/)
-* [Ngày 10 tháng 04 năm 2012](/Activities/2012/04/12/2012-04-10_minutes/)
+<!-- * [Ngày 01 tháng 06 năm 2012](/Activities/2012/06/01/memo-01062012/) -->
+<!-- * [Ngày 18 tháng 05 năm 2012](/Activities/2012/05/21/memo-18052012/) -->
+<!-- * [Ngày 15 tháng 05 năm 2012](/Activities/2012/05/21/memo-15052012/) -->
+<!-- * [Ngày 11 tháng 05 năm 2012](/Activities/2012/05/14/memo-11052012/) -->
+<!-- * [Ngày 08 tháng 05 năm 2012](/Activities/2012/05/09/memo-08052012/) -->
+<!-- * [Ngày 04 tháng 05 năm 2012](/Activities/2012/05/06/memo-04-05-2012/) -->
+<!-- * [Ngày 27 tháng 04 năm 2012](/Activities/2012/04/30/memo-27-04-2012/) -->
+<!-- * [Ngày 24 tháng 04 năm 2012](/Activities/2012/04/25/memo-24042012/) -->
+<!-- * [Ngày 20 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-20_minutes/) -->
+<!-- * [Ngày 17 tháng 04 năm 2012](/Activities/2012/04/23/2012-04-17_minutes/) -->
+<!-- * [Ngày 13 tháng 04 năm 2012](/Activities/2012/04/15/2012-04-13_minutes/) -->
+<!-- * [Ngày 10 tháng 04 năm 2012](/Activities/2012/04/12/2012-04-10_minutes/) -->
 
 ## License
 
